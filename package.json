@@ -1,0 +1,22 @@
+{
+  "name": "assignment-w4",
+  "version": "1.0.0",
+  "description": "Richardson Maturity Model Evaluation & Task Management API - Week 4 Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "rmm",
+    "richardson-maturity-model",
+    "hateoas"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
